@@ -11,46 +11,39 @@ a<-c(1,2,3,4,5,6,7)
 b<- c("a","b","c","d","e")
 
 
-#forth try
-#forth try
-#forth try
-#forth try
-#forth try
-#forth try
-#forth try
-#forth try
-#forth try
-#forth try
-#forth try
-#forth try
-#forth try
-#forth try
-#forth try
-#forth try
-#forth try
-#forth try
-#forth try
-#forth try
-a<-c(1,2,3,4,5,6,7)
-#third try to change file
 
-b<- c("a","b","c","d","e")
 
-a<-c(1,2,3,4,5,6,7)
-#third try to change file
+#as
+#as
+#as
+#as
+#as
 
-b<- c("a","b","c","d","e")
+#as
 
-a<-c(1,2,3,4,5,6,7)
-#third try to change file
 
-b<- c("a","b","c","d","e")
+#as
+#as
+#as
+#as
+#as
 
-a<-c(1,2,3,4,5,6,7)
-#third try to change file
+#as
 
-b<- c("a","b","c","d","e")
-a<-c(1,2,3,4,5,6,7)
-#third try to change file
 
-b<- c("a","b","c","d","e")
+#as
+#as
+#as
+#as
+#as
+
+#as
+
+
+#as
+#as
+#as
+#as
+#as
+
+#as
